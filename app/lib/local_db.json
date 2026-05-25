@@ -1,0 +1,19 @@
+{
+    "authorized_users": [
+        {
+            "email": "test@clickads.com",
+            "full_name": "Usuario Demo",
+            "status": "active"
+        }
+    ],
+    "users": [
+        {
+            "id": "demo-user-id",
+            "email": "test@clickads.com",
+            "password": "password123",
+            "full_name": "Usuario Demo"
+        }
+    ],
+    "team_chats": [],
+    "team_messages": []
+}
